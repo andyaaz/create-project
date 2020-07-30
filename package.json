@@ -4,8 +4,7 @@
   "description": "A cli program that help create project",
   "main": "index.js",
   "bin": {
-    "create-project": "./bin/create-project",
-    "@aaaz/create-project": "./bin/create-project"
+    "create-project": "bin/create-project"
   },
   "repository": {
     "type": "git",
@@ -48,5 +47,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
     "release:remote": "standard-version && git push --follow-tags origin master"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/andyaaz/create-project/issues"
+  },
+  "homepage": "https://github.com/andyaaz/create-project#readme"
 }
