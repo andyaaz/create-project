@@ -1,0 +1,3 @@
+{
+  "extends": ["@aaaz/eslint-config/airbnb-base", "@aaaz/eslint-config/prettier"]
+}
