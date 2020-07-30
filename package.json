@@ -1,7 +1,7 @@
 {
   "name": "@aaaz/create-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A cli program that help create project",
   "main": "index.js",
   "bin": {
     "create-project": "./bin/create-project",
